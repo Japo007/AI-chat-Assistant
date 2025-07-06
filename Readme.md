@@ -12,7 +12,7 @@ A full-stack FastAPI backend that:
 ## Features
 
 - Async FastAPI + httpx
-- GPT-3.5 powered chat-to-SQL endpoint
+- GPT-4o powered chat-to-SQL endpoint
 - SQLite + SQLAlchemy ORM
 - Retry logic for OpenAI + PDL
 - Rate limiting and exception handling
