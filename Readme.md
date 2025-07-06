@@ -25,7 +25,7 @@ A full-stack FastAPI backend that:
 ## Project Setup (Local Dev)
 
 ```bash
-git clone https://github.com/yourname/ai-startup-research-assistant.git
+git clone https://github.com/Japo007/AI-chat-Assistant
 cd ai-startup-research-assistant
 
 python3 -m venv venv
