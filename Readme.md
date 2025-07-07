@@ -26,7 +26,7 @@ A full-stack FastAPI backend that:
 
 ```bash
 git clone https://github.com/Japo007/AI-chat-Assistant
-cd ai-startup-research-assistant
+cd AI-chat-Assistant
 
 python3 -m venv venv
 source venv/bin/activate
