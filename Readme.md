@@ -39,7 +39,7 @@ OPENAI_API_KEY=your_openai_api_key_here
 
 Running the app: uvicorn app.main:app --reload
 
-Open your browser and visit: uvicorn app.main:app --reload
+Open your browser and visit: http://127.0.0.1:8000/
 ```
 
 ## API Endpoints
